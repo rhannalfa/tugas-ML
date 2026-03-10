@@ -30,8 +30,6 @@ Berikut adalah cuplikan kode Python di VS Code beserta hasil visualisasi *Vertic
 
 <img width="645" height="554" alt="image" src="https://github.com/user-attachments/assets/fdca19c1-c1f3-45c9-adb8-7f2e7062d08d" />
 
-*(Ganti LINK_GAMBAR_DI_GITHUB_ANDA di atas dengan link gambar yang kamu unggah, caranya sama seperti di Tugas 1)*
-
 ### 💡 Insight (Wawasan) dari Data Emosi
 
 Berdasarkan grafik batang vertical di atas, didapatkan informasi menarik sebagai berikut:
