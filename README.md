@@ -28,7 +28,7 @@ Sesuai instruksi tugas lanjutan, dilakukan analisis terhadap dataset lain untuk 
 
 Berikut adalah cuplikan kode Python di VS Code beserta hasil visualisasi *Vertical Bar Chart* untuk dataset emosi.
 
-<img width="100%" alt="implementasi_tugas2" src="LINK_GAMBAR_DI_GITHUB_ANDA" />
+<img width="645" height="554" alt="image" src="https://github.com/user-attachments/assets/fdca19c1-c1f3-45c9-adb8-7f2e7062d08d" />
 
 *(Ganti LINK_GAMBAR_DI_GITHUB_ANDA di atas dengan link gambar yang kamu unggah, caranya sama seperti di Tugas 1)*
 
