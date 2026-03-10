@@ -30,7 +30,7 @@ Berikut adalah cuplikan kode Python di VS Code beserta hasil visualisasi *Vertic
 
 <img width="645" height="554" alt="image" src="https://github.com/user-attachments/assets/fdca19c1-c1f3-45c9-adb8-7f2e7062d08d" />
 
-### 💡 Insight (Wawasan) dari Data Emosi
+### 💡 Insight (Wawasan) dari Data Emosi Kasus Resbob Rasis
 
 Berdasarkan grafik batang vertical di atas, didapatkan informasi menarik sebagai berikut:
 
